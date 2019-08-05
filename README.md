@@ -1,3 +1,8 @@
+# About this App
+Web application built with React to search Github users.  
+
+Built alongside web technology instructor, Brad Traversy, in his course [React Front to Back 2019](https://www.udemy.com/modern-react-front-to-back/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
