@@ -5,6 +5,9 @@ Built alongside web technology instructor, Brad Traversy, in his course [React F
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+[Github Finder hosted on Netlify](https://icy-github-finder.netlify.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
